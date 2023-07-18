@@ -1,0 +1,10 @@
+^C:\FLUTTERDEV\FFI_APPCLASS\NATIVE\BUILD\CMAKEFILES\6231864D0FBF001B0A30A456367ACA4D\GENERATE.STAMP.RULE
+setlocal
+C:\cmake-3.27.0-rc5-windows-x86_64\bin\cmake.exe -SC:/flutterdev/ffi_appclass/native -BC:/flutterdev/ffi_appclass/native/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/flutterdev/ffi_appclass/native/build/urna.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

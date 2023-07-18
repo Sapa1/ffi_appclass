@@ -1,0 +1,25 @@
+# CMake generation dependency list for this directory.
+C:/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/CMakeCInformation.cmake
+C:/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/CMakeCXXInformation.cmake
+C:/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake
+C:/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake
+C:/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake
+C:/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake
+C:/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/CMakeRCInformation.cmake
+C:/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake
+C:/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake
+C:/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/Compiler/MSVC-C.cmake
+C:/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/Compiler/MSVC-CXX.cmake
+C:/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/Compiler/MSVC.cmake
+C:/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake
+C:/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/Platform/Windows-MSVC-C.cmake
+C:/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/Platform/Windows-MSVC.cmake
+C:/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/Platform/Windows.cmake
+C:/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake
+C:/flutterdev/ffi_appclass/native/CMakeLists.txt
+C:/flutterdev/ffi_appclass/native/build/CMakeFiles/3.27.0-rc5/CMakeCCompiler.cmake
+C:/flutterdev/ffi_appclass/native/build/CMakeFiles/3.27.0-rc5/CMakeCXXCompiler.cmake
+C:/flutterdev/ffi_appclass/native/build/CMakeFiles/3.27.0-rc5/CMakeRCCompiler.cmake
+C:/flutterdev/ffi_appclass/native/build/CMakeFiles/3.27.0-rc5/CMakeSystem.cmake

@@ -1,0 +1,3 @@
+- Utilização do CMAKE para build multiplataforma
+- Código em C++ para recursos nativos
+- Arquivo urna.def: definicoes do que vamos trabalhar e oq vamos deixar publico
